@@ -42,7 +42,7 @@ export default function Certifications() {
               key={index}
               whileHover={{ scale: 1.03 }}
               transition={{ type: "spring", stiffness: 200 }}
-              className="border border-[#F9E8E8] rounded-2xl shadow-sm p-6 text-left hover:shadow-lg transition-shadow bg-[#FDF9F9]"
+              className="border border-[#F9E8E8] rounded-2xl shadow-sm p-6 text-left hover:shadow-lg transition-shadow bg-[#F9E8E8]"
             >
               <div className="flex items-center gap-3 mb-3">
                 <FaCertificate className="text-[#B23A48] text-xl" />

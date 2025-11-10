@@ -1,7 +1,7 @@
 // src/components/About.jsx
 import React from "react";
 import { FiMail, FiPhone, FiMapPin } from "react-icons/fi";
-import { FaBehanceSquare } from "react-icons/fa";
+import { FaGamepad } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -48,7 +48,7 @@ const About = () => {
 
           {/* Social Link */}
           <div className="flex sm:flex-col items-center sm:items-start gap-3">
-            <FaBehanceSquare className="text-[#B23A48] text-3xl" />
+            <FaGamepad className="text-[#B23A48] text-3xl" />
             Check this game out -
             <a
               href="https://2048-game-nu-nine.vercel.app/"
@@ -56,7 +56,6 @@ const About = () => {
               rel="noopener noreferrer"
               className="text-[#1A1A1A] font-medium hover:text-[#B23A48] transition"
             >
-              {" "}
               2048-game/.com
             </a>
           </div>

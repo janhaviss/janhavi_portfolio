@@ -1,7 +1,7 @@
 // src/components/Hero.jsx
 import React from "react";
 import { motion } from "framer-motion";
-import profileImg from "../assets/profile.jpeg"; // replace with your image path
+import profileImg from "../assets/profile.jpg"; // replace with your image path
 import resume from "../assets/resume.pdf";
 
 const Hero = () => {

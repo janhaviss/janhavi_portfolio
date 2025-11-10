@@ -46,7 +46,10 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className="bg-[#F9E8E8] text-[#1A1A1A] py-16 px-6 flex flex-col items-center">
+    <section
+      id="projects"
+      className="bg-[#F9E8E8] text-[#1A1A1A] py-16 px-6 flex flex-col items-center"
+    >
       <motion.div
         initial={{ opacity: 0, y: 40 }}
         whileInView={{ opacity: 1, y: 0 }}
