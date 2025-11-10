@@ -15,7 +15,7 @@ React, Tailwind CSS, Framer Motion
 
 ## 🖥️ Live Preview
 
-[View Portfolio]([https://your-portfolio-link.com](https://janhavi-portfolio-eight.vercel.app/))
+[View Portfolio](https://janhavi-portfolio-eight.vercel.app/)
 
 ## 📄 License
 
